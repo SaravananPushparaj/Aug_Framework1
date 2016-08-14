@@ -1,0 +1,18 @@
+2016-08-14 09:55:56 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-14 09:56:38 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 09:56:48 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2.0
+2016-08-14 09:57:37 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 09:58:40 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2.0
+2016-08-14 09:59:14 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 09:59:24 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-14 10:00:29 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 10:13:51 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-14 10:14:31 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 11:02:43 INFO  Scenario_Cart:20 - Executing the Testcase GB_05 Order is 1.0
+2016-08-14 11:03:26 INFO  Scenario_Cart:43 - Passed as Actual Result is  Raw Mango - Diced  Expected Result is Raw Mango - Diced
+2016-08-14 11:08:28 INFO  Scenario_Cart:64 - Executing the Testcase GB_08 Order is 1.0
+2016-08-14 11:09:21 INFO  Scenario_Cart:91 - Passed as Actual Result is  There are no items in your basket.  Expected Result is There are no items in your basket.
+2016-08-14 11:18:03 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-14 11:19:11 INFO  Scenario_Search:40 - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
+2016-08-14 11:24:43 INFO  Scenario_Search:? - Executing the Testcase GB_01 Order is  1.0
+2016-08-14 11:25:30 INFO  Scenario_Search:? - Passed as Actual Result is Sorry! There are no products to display. Expected Result is Sorry! There are no products to display.
